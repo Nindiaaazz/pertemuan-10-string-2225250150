@@ -50,3 +50,15 @@ Program normalisasi data mahasiswa diuji menggunakan empat kasus:
 4. Nama tiga kata dan kode kelas dengan huruf kecil.
 
 Pengujian dilakukan untuk memastikan nama, kode kelas, jumlah kata, dan inisial ditampilkan sesuai hasil yang diharapkan.
+
+## Perintah Menjalankan Latihan
+
+Jalankan perintah berikut melalui terminal VS Code dari folder utama proyek.
+
+- Latihan 1: `python latihan/01_dasar_string.py`
+- Latihan 2: `python latihan/02_indeks_slicing.py`
+- Latihan 3: `python latihan/03_method_string.py`
+- Latihan 4: `python latihan/04_bersihkan_teks.py`
+- Latihan 5: `python latihan/05_split_join.py`
+- Latihan 6: `python latihan/06_pencarian_kata.py`
+- Tugas: `python tugas/normalisasi_data_mahasiswa.py`
