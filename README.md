@@ -40,3 +40,13 @@ Untuk menjalankan tugas utama:
 
 ## Refleksi
 Melalui latihan ini, saya mempelajari cara mengolah teks menggunakan berbagai operasi dan method string pada Python. Saya juga memahami penggunaan fungsi untuk membersihkan data nama, menormalisasi kode kelas, menghitung jumlah kata, dan membuat inisial.
+
+## Hasil Pengujian
+
+Program normalisasi data mahasiswa diuji menggunakan empat kasus:
+1. Nama huruf kecil dan kode kelas dengan spasi.
+2. Nama dengan campuran huruf besar dan kecil.
+3. Nama satu kata dan kode yang mengandung angka.
+4. Nama tiga kata dan kode kelas dengan huruf kecil.
+
+Pengujian dilakukan untuk memastikan nama, kode kelas, jumlah kata, dan inisial ditampilkan sesuai hasil yang diharapkan.
